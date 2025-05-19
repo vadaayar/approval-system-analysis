@@ -1,0 +1,4 @@
+Model,Recall_Male,Recall_Female
+Biased,0.6,0.3
+Behavior-Based,0.85,0.8
+Fairer,1.0,1.0
